@@ -2,7 +2,7 @@
 This dataset presents one of the first efforts for clickbait detection in Turkish news headlines. We contribute to future works with the dataset consisting of 48,062 news headlines (24,031 clickbait, 24,031 non-clickbait).
 
 # General Information
-![]()
+![](https://github.com/clickbaittr/turkish-clickbait-dataset/blob/master/image/data_acquisition.png?raw=true)
 
 # Structure of Dataset
 The dataset consists of clickbait and non-clickbait headlines as two different categories providing a structure suitable for analysis to be made for clickbait detection. News headlines taken from Twitter accounts of Limon Haber and Spoiler Haber were included in clickbait data while the headlines taken from Twitter accounts of Evrensel and Diken Newspapers were included in non-clickbait data. 
