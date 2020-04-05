@@ -9,7 +9,7 @@ The dataset consists of clickbait and non-clickbait headlines as two different c
 
 Limon Haber and Evrensel Newspaper shared their tweet data for this dataset and the tweets of Diken Newspaper and Spoiler Haber are gathered manually from Twitter since there was no response to request for data. After the dataset is created, their permissions are obtained for sharing their data. The data have an equal representation of clickbait and non-clickbait headlines. The amounts of data extracted from these 4 accounts are the following:
 
-![]()
+![](https://github.com/clickbaittr/turkish-clickbait-dataset/blob/master/image/image/numbers.png?raw=true)
 
 The dataset consists of source information (source), information about on which date tweets were shared (created_at), news headline (full_text), how many times a tweet was liked by other users (favorite_count) and how many times a tweet was shared by other users (retweet_count). Since Limon Haber and Evrensel Newspaper shared their tweet data with us, the data of these accounts also includes tweet id number (tweet_id). There is no tweet id infromation in data of Spoiler Haber and Diken Newspaper since the data of these two accounts were gathered manually. For the same reason, some tweets of these two accounts do not contain information about number of retweets and number of likes. 
 
