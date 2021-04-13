@@ -27,3 +27,6 @@ If you use the dataset, please cite as:
 
 Genç Ş, Surer E. ClickbaitTR: Dataset for clickbait detection from Turkish news sites and social media with a comparative analysis via machine learning algorithms. Journal of Information Science. April 2021. doi:10.1177/01655515211007746
 
+# Contact
+If you have any questions about the dataset, you can contact us: dataset.clickbaittr@gmail.com
+
