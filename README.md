@@ -1,6 +1,11 @@
 # Turkish Clickbait Dataset
 This dataset presents one of the first efforts for clickbait detection in Turkish news headlines. We contribute to future works with the dataset consisting of 48,062 news headlines (24,031 clickbait, 24,031 non-clickbait).
 
+# Citation
+If you use the dataset, please cite as:
+
+Genç Ş, Surer E. ClickbaitTR: Dataset for clickbait detection from Turkish news sites and social media with a comparative analysis via machine learning algorithms. Journal of Information Science. April 2021. doi:10.1177/01655515211007746
+
 # General Information
 ![](https://github.com/clickbaittr/turkish-clickbait-dataset/blob/master/image/data_acquisition.png?raw=true)
 
